@@ -3,9 +3,11 @@ Implement a Caesar cipher, both encoding and decoding. The key is an integer fro
 This cipher rotates the letters of the alphabet (A to Z).
 The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A).
 So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC".
-This simple "monoalphabetic substitution cipher" provides almost no security,
+This simple "mono-alphabetic substitution cipher" provides almost no security,
 because an attacker who has the encoded message can either use frequency analysis to guess the key,
 or just try all 25 keys.
+
+***Problem found at: https://github.com/karan/Projects/blob/master/README.md#security***
 """
 from exceptions import InvalidKeyException, InvalidModeException
 
