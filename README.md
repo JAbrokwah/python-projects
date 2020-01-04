@@ -1,2 +1,2 @@
-# side-project-widgets
-A repository containing small projects across various subjects.
+# Side Projects
+This is a repository of code containing solutions to various coding problems across various subjects.
