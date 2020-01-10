@@ -1,0 +1,36 @@
+***Forecast for Toronto, Old Toronto***
+Date: 09/01/2020
+Max Temp (C): 3.5
+Min Temp (C): 1.7
+Summary: Partly cloudy skies
+
+Date: 10/01/2020
+Max Temp (C): 4.9
+Min Temp (C): 2.3
+Summary: Overcast skies
+
+Date: 11/01/2020
+Max Temp (C): 9.3
+Min Temp (C): -4.4
+Summary: Light rain
+
+Date: 12/01/2020
+Max Temp (C): 1.6
+Min Temp (C): -7.7
+Summary: Moderate or heavy freezing rain
+
+Date: 13/01/2020
+Max Temp (C): -1.6
+Min Temp (C): -8.3
+Summary: Clear skies
+
+Date: 14/01/2020
+Max Temp (C): 0.9
+Min Temp (C): -10.8
+Summary: Cloudy skies
+
+Date: 15/01/2020
+Max Temp (C): 1.7
+Min Temp (C): -4.6
+Summary: Light snow
+
